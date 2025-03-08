@@ -1,0 +1,28 @@
+# Thư viện xử lý dữ liệu y tế
+pydicom==2.4.3
+nibabel==5.1.0
+
+# Thư viện xử lý hình ảnh và dữ liệu
+numpy==1.24.3
+scipy==1.10.1
+scikit-image==0.21.0
+pillow==10.0.0
+opencv-python==4.8.0.76
+
+# Thư viện cho phân đoạn hình ảnh với deep learning
+tensorflow==2.13.0
+# hoặc
+# torch==2.0.1
+# torchvision==0.15.2
+SimpleITK==2.3.0
+
+# Thư viện trực quan hóa 3D
+vtk==9.2.6
+pyvista==0.40.0
+matplotlib==3.7.2
+plotly==5.16.0
+dash==2.12.1
+
+# Công cụ hỗ trợ
+tqdm==4.65.0
+pytest==7.4.0 
